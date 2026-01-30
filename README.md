@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://antoniods1.github.io/html-meditation-app">
-    <img src="public/img/favicon-32.png" alt="Meditation App Logo" width="160">
+    <img src="/img/favicon-32.png" alt="Meditation App Logo" width="160">
   </a>
 
   <h3 align="center">Meditation App</h3>
@@ -33,7 +33,7 @@
 
 ## 🧘 Overview
 
-![Screenshot](public/img/og-image.png)
+![Screenshot](/img/og-image.png)
 
 **Meditation App** is a modern web application designed to help users relax, focus, and reconnect through guided timers, ambient sounds, and peaceful visuals.
 
