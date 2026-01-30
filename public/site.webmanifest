@@ -1,7 +1,7 @@
 {
   "name": "Meditation App – Relax & Mindfulness",
   "short_name": "Meditation",
-  "start_url": "/",
+  "start_url": "html-meditation-app",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
