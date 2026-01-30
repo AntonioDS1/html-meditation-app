@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://antoniods1.github.io/html-meditation-app">
+  <a href="https://html-meditation-app.vercel.app">
     <img src="public/img/favicon-32.png" alt="Meditation App Logo" width="160">
   </a>
 
@@ -18,10 +18,9 @@
   <p align="center">
     A minimalist meditation app focused on relaxation, mindfulness, and focus.
     Built with modern frontend tools, smooth UI interactions, and calming visuals.
-    <br />
-    
-    <a href="https://html-meditation-app.vercel.app"><strong>Visit on Vercel »</strong></a>
-    <br />
+    <br /><br />
+    <a href="https://html-meditation-app.vercel.app"><strong>🌐 Live Demo on Vercel »</strong></a>
+    <br /><br />
     <a href="https://github.com/AntonioDS1/html-meditation-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/AntonioDS1/html-meditation-app/issues">Request Feature</a>
