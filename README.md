@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://antoniods1.github.io/html-meditation-app">
-    <img src="assets/img/og-image.png" alt="Meditation App Logo" width="160">
+    <img src="public/img/favicon-32.png" alt="Meditation App Logo" width="160">
   </a>
 
   <h3 align="center">Meditation App</h3>
@@ -21,7 +21,7 @@
     <br />
     <a href="https://antoniods1.github.io/html-meditation-app"><strong>Visit on GitHub Pages »</strong></a>
     <br />
-    <a href="https://meditation-app.vercel.app"><strong>Visit on Vercel »</strong></a>
+    <a href="https://html-meditation-app.vercel.app"><strong>Visit on Vercel »</strong></a>
     <br /><br />
     <a href="https://github.com/AntonioDS1/html-meditation-app/issues">Report Bug</a>
     ·
@@ -33,7 +33,7 @@
 
 ## 🧘 Overview
 
-![Screenshot](assets/img/og-image.png)
+![Screenshot](public/img/og-image.png)
 
 **Meditation App** is a modern web application designed to help users relax, focus, and reconnect through guided timers, ambient sounds, and peaceful visuals.
 
@@ -123,7 +123,7 @@ npm run build
 
 🔹 Vercel
 
-👉 https://meditation-app.vercel.app
+👉 https://html-meditation-app.vercel.app
 
 
 🔹 GitHub Repository
