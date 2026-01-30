@@ -19,8 +19,7 @@
     A minimalist meditation app focused on relaxation, mindfulness, and focus.
     Built with modern frontend tools, smooth UI interactions, and calming visuals.
     <br />
-    <a href="https://antoniods1.github.io/html-meditation-app"><strong>Visit on GitHub Pages »</strong></a>
-    <br />
+    
     <a href="https://html-meditation-app.vercel.app"><strong>Visit on Vercel »</strong></a>
     <br /><br />
     <a href="https://github.com/AntonioDS1/html-meditation-app/issues">Report Bug</a>
