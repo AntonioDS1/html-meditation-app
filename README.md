@@ -21,7 +21,7 @@
     <br />
     
     <a href="https://html-meditation-app.vercel.app"><strong>Visit on Vercel »</strong></a>
-    <br /><br />
+    <br />
     <a href="https://github.com/AntonioDS1/html-meditation-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/AntonioDS1/html-meditation-app/issues">Request Feature</a>
