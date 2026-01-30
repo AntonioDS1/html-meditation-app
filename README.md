@@ -116,9 +116,6 @@ npm run build
 
 🌐 Live Links
 
-🔹 GitHub Pages
-
-👉 https://antoniods1.github.io/html-meditation-app
 
 
 🔹 Vercel
@@ -145,7 +142,7 @@ GitHub:
 
 Project Links:
 
-👉 GitHub Pages: https://antoniods1.github.io/html-meditation-app
+
 
 👉 Vercel: https://meditation-app.vercel.app
 
